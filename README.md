@@ -36,7 +36,7 @@ After loading the manipulated CSV files into Power BI, the first row of data  (w
 
 **Hypothesis 1 (VERIFIED - Neutral):** Credit Card sales will have amongst the highest profit margins.
 
-**Hypothesis 2 (VERIFIED - True ):** Longer shipment times will negatively impact return rates.
+**Hypothesis 2 (VERIFIED - True):** Longer shipment times will negatively impact return rates.
 
 ![Sales and Profitability Dashboard](dashboard_Page1_toPNG.png)
 ![Regional and Demographics Dashboard](dashboard_Page2_toPNG.png)
