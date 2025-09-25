@@ -54,7 +54,7 @@ After loading the manipulated CSV files into Power BI, the first row of data  (w
   The Grocery category is significantly unprofitable and is hurting our baseline, with a remarkable -29.68% average profit margin. Groceries are among our lowest return rates, and lowest selling category. This indicates that our production cost (CoGS), shipping, and sale prices in dynamic  need to be re-evalulated. 
 
 #### The Central Region
-  Although the Central region may go unnoticed due to lower total sales (5.6k versus 7.6k in the South and North), the Central region outperforms other regions with its noticeably lower return rate (5.10%) and average performing Profit Margin (10.9%).  We should analyze the factors contributing to this success- be it specific services, warehouse efficiency, or shipment speed—and attempt to replicate these best practices in other regions to improve overall profitability.
+  Although the Central region may go unnoticed due to lower total sales (5.6k versus 7.6k in the South and North), the Central region outperforms other regions with its noticeably lower return rate (5.10%) and average performing Profit Margin (10.9%).  The business should analyze the factors contributing to this success- be it specific services, warehouse efficiency, or shipment speed—and attempt to replicate these best practices in other regions to improve overall profitability.
 
 #### Demographics
   The demographic base of male (48.75%)  and female (47.28%)  is split quite neutrally, and both perform about equally (69% and 70% respectively) in profit margins. However, notably non-specific gender demographics make up only approximately 3.8% of the total sales, yet outperform the profit margin of male(s) and female(s) identifying customers by nearly 2-3% . 
